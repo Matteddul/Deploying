@@ -4,3 +4,5 @@ main()
  printf(“hello world! I am learning to program");
  getch();
  }
+
+Hello welcome to the world
