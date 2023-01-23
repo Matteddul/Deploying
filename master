@@ -1,0 +1,6 @@
+main()
+ {
+ clrscr();
+ printf(“hello world! I am learning to program");
+ getch();
+ }
